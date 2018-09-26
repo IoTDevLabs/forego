@@ -6,6 +6,8 @@
 
 [Foreman](https://github.com/ddollar/foreman) in Go.
 
+Modified to add -n option to disable colorizing output lines.
+
 ### Installation
 
 [Downloads](https://dl.equinox.io/ddollar/forego/stable)
